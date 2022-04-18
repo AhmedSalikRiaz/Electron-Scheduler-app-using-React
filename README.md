@@ -21,7 +21,7 @@
 
 OR
 
-5) To distribute the desktop app, run:
+5) To distribute it as a desktop app, run:
 
 	npm run electron-dev
 	
