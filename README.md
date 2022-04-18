@@ -10,7 +10,7 @@
 	npm i electron-is-dev
 
 
-3) To install these packages at devDependencies, run:
+3) To install the packages at devDependencies, run:
 
 	npm i -D concurrently electron electron-builder wait-on cross-env
 
