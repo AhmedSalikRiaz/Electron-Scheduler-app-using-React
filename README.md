@@ -1,3 +1,5 @@
+# Quick Start #
+
 1) To install the package and any packages that it depends on, run:
 	npm install
 
